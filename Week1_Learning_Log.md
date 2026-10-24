@@ -19,14 +19,14 @@
 
 | Activity | Status | Evidence / Notes |
 |---|---|---|
-| Unity installation | Not started | Update after checking Unity Hub |
-| Android Build Support | Not started | Verify Android SDK, NDK and OpenJDK |
-| Blender installation | Not started | Verify Blender opens |
-| GitHub repository | Not started | Add repository URL after publishing |
-| Unity project setup | Not started | Record project location |
-| Unity fundamentals | Not started | Record practical exercises |
-| C# practice | Not started | Record script and Console test |
-| Git commit and push | Not started | Record commit after pushing |
+| Unity installation | started | Update after checking Unity Hub |
+| Android Build Support | started | Verify Android SDK, NDK and OpenJDK |
+| Blender installation | started | Verify Blender opens |
+| GitHub repository | started | Add repository URL after publishing |
+| Unity project setup | started | Record project location |
+| Unity fundamentals | started | Record practical exercises |
+| C# practice | started | Record script and Console test |
+| Git commit and push | started | Record commit after pushing |
 
 ## 3. Knowledge Gained
 
